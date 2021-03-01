@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  device_id: 1
+  sender: MyText
+  message: MyText
+
+two:
+  device_id: 1
+  sender: MyText
+  message: MyText
